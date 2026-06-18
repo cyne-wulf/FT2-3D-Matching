@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "ft2-3d-matching"
 version = "0.1.0"
-description = "Pi-first 3D deal matching workshop with LangGraph, FastEmbed, Qdrant, and Airtable."
+description = "Module 2 Pi-first 3D deal matching workshop with LangGraph, FastEmbed, Qdrant, and Airtable."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

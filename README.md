@@ -1,4 +1,4 @@
-# Pi-First 3D Deal Matching Workshop
+# FT2 3D Deal Matching Workshop
 
 This repo gives you a clone-and-run pipeline for turning company records and synthetic founder/team profiles into semantic text, local embeddings, vector search results, scored leads, Airtable review rows, precision/recall metrics, and a Deal Review Workspace.
 
